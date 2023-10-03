@@ -2,7 +2,7 @@
   "name": "galaxy",
   "version": "1.0.0",
   "description": "A stunning web proxy with support for many popular sites.",
-  "repository": "https://github.com/cognetwork-dev/Galaxy.git",
+  "repository": "https://github.com/ToxicZombiez/Galaxy.git",
   "type": "module",
   "author": "Nebelung",
   "license": "AGPL-3.0",
